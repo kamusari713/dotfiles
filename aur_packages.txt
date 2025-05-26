@@ -1,0 +1,11 @@
+freesmlauncher
+hyphen-ru
+hyprlang-git
+hyprshot
+hyprutils-git
+nekoray
+obs-studio-browser
+libvlc-luajit
+spicetify-cli
+vesktop
+xdg-desktop-portal-hyprland-git
