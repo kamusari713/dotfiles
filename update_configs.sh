@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOTFILES_DIR="$HOME/.config/dotfiles"
+DOTFILES_DIR="$HOME/dotfiles"
 
 CONFIGS=(
   "fastfetch"
